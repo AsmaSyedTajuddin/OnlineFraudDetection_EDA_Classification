@@ -1,6 +1,8 @@
 # OnlineFraudDetection_EDA_Classification
 EDA_Classification
 
+<img width="732" alt="Screenshot 2022-07-18 at 19 16 29" src="https://user-images.githubusercontent.com/100385953/179566692-4acfec83-57b1-4b5a-a350-2b252214e4ba.png">
+
 /kaggle/input/online-payments-fraud-detection-dataset/PS_20174392719_1491204439457_log.csv
 
 Dataset:
